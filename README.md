@@ -1,2 +1,2 @@
-# psg-poo-2025
-Python programacion orientada a objetos
+# psg-oop-2025
+Python Study Groop programacion orientada a objetos 2025
