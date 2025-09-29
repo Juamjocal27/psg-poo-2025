@@ -6,6 +6,28 @@ cebolla y mayonesa
 Ademas los clientes pueden decidir comer en el restaurante 
 o llevar su pedido
 
-hamburquesa
+# Analisis
 
-caracteristica
+Clientes:
+- Eligen el tipo de carne
+- Ingredientes extras
+- Deciden si llevar
+
+Objeto
+- Hamburquesa
+
+Caracteristica
+- Carne: Res, Pollo, Vegeteriana
+- Extras: Lechuga, Tomate, Cebolla, Mayonesa
+- Llevar
+
+No hay metodos
+
+```mermaid
+classDiagram
+    class Hamburguesa{
+        Carne
+        Extras
+        LLevar
+    }
+```
