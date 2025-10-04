@@ -25,7 +25,16 @@ Caracteristicas
 Acciones
 - Descargar foto PNG O JPG
 
-```python
-print("hola mundo")
+```mermaid
+classDiagram
+    class Perro{
+        Raza
+        Color
+        Pelaje
+        Tamaño
+        Oreja
+        Accesorio
+        descargar_foto()
+    }
 ```
 
